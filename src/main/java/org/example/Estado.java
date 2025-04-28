@@ -1,2 +1,9 @@
-package org.example;public enum Estado {
+package org.example;
+
+public enum Estado {
+   ABIERTO,
+    CERRADO,
+    ENPROCESO
 }
+
+
